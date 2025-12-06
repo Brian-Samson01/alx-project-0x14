@@ -142,6 +142,3 @@ The API may return standard HTTP error responses such as:
 
 ---
 
-✅ **Repository:** `alx-project-0x14`
-✅ **File:** `README.md`
-✅ **Task Status:** Complete and submission-ready
